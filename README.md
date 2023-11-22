@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 [![Build status](https://build.appcenter.ms/v0.1/apps/8014aaf2-926f-4739-94e9-d8b9fbf2014e/branches/main/badge)](https://appcenter.ms)
+
+Link Aplikasi: https://install.appcenter.ms/orgs/shopping-list-johan/apps/shopping-list/distribution_groups/public
