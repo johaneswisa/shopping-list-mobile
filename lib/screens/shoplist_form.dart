@@ -77,7 +77,7 @@ class _ShopFormPageState extends State<ShopFormPage> {
                 },
                 validator: (String? value) {
                   if (value == null || value.isEmpty) {
-                    return "Harga tidak boleh kosong!";
+                    return "Price tidak boleh kosong!";
                   }
                   if (int.tryParse(value) == null) {
                     return "Harga harus berupa angka!";
